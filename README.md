@@ -1,3 +1,8 @@
+[![Build Status](http://ec2-13-39-8-246.eu-west-3.compute.amazonaws.com/buildStatus/icon?job=fibonnaci-repo)](http://ec2-13-39-8-246.eu-west-3.compute.amazonaws.com/job/fibonnaci-repo/)
+
+
+
+
 # 03_03 Run scripts from the pipeline
 
 Pipelines can be used to call scripts that are stored in a repo along with a Jenkinsfile.
